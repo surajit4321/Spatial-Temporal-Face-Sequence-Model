@@ -1,0 +1,48 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite both the software and the associated manuscript below."
+title: "Spatial-Temporal Face Sequence Modelling for Robust Deepfake Video Detection"
+abstract: >-
+  Source code for a Hybrid CNN-Transformer (HCT) framework that detects
+  deepfake videos by jointly modelling per-frame spatial artefacts
+  (EfficientNet-B4) and inter-frame temporal inconsistencies (Transformer
+  encoder). This code is directly related to the manuscript submitted to
+  The Visual Computer.
+type: software
+authors:
+  - family-names: Paul
+    given-names: Surajit
+    affiliation: "National Institute of Technology Meghalaya, India"
+    email: surajit@nielit.gov.in
+  - family-names: Chakraborty
+    given-names: Angshuman
+    affiliation: "Tripura Institute of Technology, Agartala, India"
+  - family-names: Devi
+    given-names: Bishnulatpam Pushpa
+    affiliation: "National Institute of Technology Meghalaya, India"
+version: 1.0.0
+date-released: 2026-06-22
+license: MIT
+repository-code: "https://github.com/<your-username>/Spatial-Temporal-Face-Sequence-Model"
+url: "https://github.com/<your-username>/Spatial-Temporal-Face-Sequence-Model"
+# Add this once Zenodo mints a DOI for the archived release:
+# doi: 10.5281/zenodo.XXXXXXX
+keywords:
+  - deepfake detection
+  - EfficientNet-B4
+  - transformer
+  - spatial-temporal modelling
+  - video forensics
+  - deep learning
+preferred-citation:
+  type: article
+  title: "Spatial-Temporal Face Sequence Modelling for Robust Deepfake Video Detection"
+  authors:
+    - family-names: Paul
+      given-names: Surajit
+    - family-names: Chakraborty
+      given-names: Angshuman
+    - family-names: Devi
+      given-names: Bishnulatpam Pushpa
+  journal: "The Visual Computer"
+  year: 2026
+  notes: "Manuscript under review. DOI will be added upon acceptance."
